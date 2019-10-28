@@ -1,0 +1,1851 @@
+fileFormatVersion: 2
+guid: f9f8e7357ef6ce34dae3564d648b6257
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: character/bloodelf/female/bloodelffemale_hd_bone_0
+    100004: character/bloodelf/female/bloodelffemale_hd_bone_1
+    100006: character/bloodelf/female/bloodelffemale_hd_bone_10
+    100008: character/bloodelf/female/bloodelffemale_hd_bone_100
+    100010: character/bloodelf/female/bloodelffemale_hd_bone_101
+    100012: character/bloodelf/female/bloodelffemale_hd_bone_102
+    100014: character/bloodelf/female/bloodelffemale_hd_bone_103
+    100016: character/bloodelf/female/bloodelffemale_hd_bone_104
+    100018: character/bloodelf/female/bloodelffemale_hd_bone_105
+    100020: character/bloodelf/female/bloodelffemale_hd_bone_106
+    100022: character/bloodelf/female/bloodelffemale_hd_bone_107
+    100024: character/bloodelf/female/bloodelffemale_hd_bone_108
+    100026: character/bloodelf/female/bloodelffemale_hd_bone_109
+    100028: character/bloodelf/female/bloodelffemale_hd_bone_11
+    100030: character/bloodelf/female/bloodelffemale_hd_bone_110
+    100032: character/bloodelf/female/bloodelffemale_hd_bone_111
+    100034: character/bloodelf/female/bloodelffemale_hd_bone_112
+    100036: character/bloodelf/female/bloodelffemale_hd_bone_113
+    100038: character/bloodelf/female/bloodelffemale_hd_bone_114
+    100040: character/bloodelf/female/bloodelffemale_hd_bone_115
+    100042: character/bloodelf/female/bloodelffemale_hd_bone_116
+    100044: character/bloodelf/female/bloodelffemale_hd_bone_117
+    100046: character/bloodelf/female/bloodelffemale_hd_bone_118
+    100048: character/bloodelf/female/bloodelffemale_hd_bone_119
+    100050: character/bloodelf/female/bloodelffemale_hd_bone_12
+    100052: character/bloodelf/female/bloodelffemale_hd_bone_120
+    100054: character/bloodelf/female/bloodelffemale_hd_bone_121
+    100056: character/bloodelf/female/bloodelffemale_hd_bone_122
+    100058: character/bloodelf/female/bloodelffemale_hd_bone_123
+    100060: character/bloodelf/female/bloodelffemale_hd_bone_124
+    100062: character/bloodelf/female/bloodelffemale_hd_bone_125
+    100064: character/bloodelf/female/bloodelffemale_hd_bone_126
+    100066: character/bloodelf/female/bloodelffemale_hd_bone_127
+    100068: character/bloodelf/female/bloodelffemale_hd_bone_128
+    100070: character/bloodelf/female/bloodelffemale_hd_bone_129
+    100072: character/bloodelf/female/bloodelffemale_hd_bone_13
+    100074: character/bloodelf/female/bloodelffemale_hd_bone_130
+    100076: character/bloodelf/female/bloodelffemale_hd_bone_131
+    100078: character/bloodelf/female/bloodelffemale_hd_bone_132
+    100080: character/bloodelf/female/bloodelffemale_hd_bone_133
+    100082: character/bloodelf/female/bloodelffemale_hd_bone_134
+    100084: character/bloodelf/female/bloodelffemale_hd_bone_135
+    100086: character/bloodelf/female/bloodelffemale_hd_bone_136
+    100088: character/bloodelf/female/bloodelffemale_hd_bone_137
+    100090: character/bloodelf/female/bloodelffemale_hd_bone_138
+    100092: character/bloodelf/female/bloodelffemale_hd_bone_139
+    100094: character/bloodelf/female/bloodelffemale_hd_bone_14
+    100096: character/bloodelf/female/bloodelffemale_hd_bone_140
+    100098: character/bloodelf/female/bloodelffemale_hd_bone_141
+    100100: character/bloodelf/female/bloodelffemale_hd_bone_142
+    100102: character/bloodelf/female/bloodelffemale_hd_bone_143
+    100104: character/bloodelf/female/bloodelffemale_hd_bone_144
+    100106: character/bloodelf/female/bloodelffemale_hd_bone_145
+    100108: character/bloodelf/female/bloodelffemale_hd_bone_146
+    100110: character/bloodelf/female/bloodelffemale_hd_bone_147
+    100112: character/bloodelf/female/bloodelffemale_hd_bone_148
+    100114: character/bloodelf/female/bloodelffemale_hd_bone_149
+    100116: character/bloodelf/female/bloodelffemale_hd_bone_15
+    100118: character/bloodelf/female/bloodelffemale_hd_bone_150
+    100120: character/bloodelf/female/bloodelffemale_hd_bone_151
+    100122: character/bloodelf/female/bloodelffemale_hd_bone_152
+    100124: character/bloodelf/female/bloodelffemale_hd_bone_153
+    100126: character/bloodelf/female/bloodelffemale_hd_bone_154
+    100128: character/bloodelf/female/bloodelffemale_hd_bone_155
+    100130: character/bloodelf/female/bloodelffemale_hd_bone_156
+    100132: character/bloodelf/female/bloodelffemale_hd_bone_157
+    100134: character/bloodelf/female/bloodelffemale_hd_bone_158
+    100136: character/bloodelf/female/bloodelffemale_hd_bone_159
+    100138: character/bloodelf/female/bloodelffemale_hd_bone_16
+    100140: character/bloodelf/female/bloodelffemale_hd_bone_160
+    100142: character/bloodelf/female/bloodelffemale_hd_bone_161
+    100144: character/bloodelf/female/bloodelffemale_hd_bone_162
+    100146: character/bloodelf/female/bloodelffemale_hd_bone_163
+    100148: character/bloodelf/female/bloodelffemale_hd_bone_164
+    100150: character/bloodelf/female/bloodelffemale_hd_bone_165
+    100152: character/bloodelf/female/bloodelffemale_hd_bone_166
+    100154: character/bloodelf/female/bloodelffemale_hd_bone_167
+    100156: character/bloodelf/female/bloodelffemale_hd_bone_168
+    100158: character/bloodelf/female/bloodelffemale_hd_bone_169
+    100160: character/bloodelf/female/bloodelffemale_hd_bone_17
+    100162: character/bloodelf/female/bloodelffemale_hd_bone_170
+    100164: character/bloodelf/female/bloodelffemale_hd_bone_171
+    100166: character/bloodelf/female/bloodelffemale_hd_bone_172
+    100168: character/bloodelf/female/bloodelffemale_hd_bone_173
+    100170: character/bloodelf/female/bloodelffemale_hd_bone_174
+    100172: character/bloodelf/female/bloodelffemale_hd_bone_175
+    100174: character/bloodelf/female/bloodelffemale_hd_bone_176
+    100176: character/bloodelf/female/bloodelffemale_hd_bone_177
+    100178: character/bloodelf/female/bloodelffemale_hd_bone_178
+    100180: character/bloodelf/female/bloodelffemale_hd_bone_179
+    100182: character/bloodelf/female/bloodelffemale_hd_bone_18
+    100184: character/bloodelf/female/bloodelffemale_hd_bone_180
+    100186: character/bloodelf/female/bloodelffemale_hd_bone_181
+    100188: character/bloodelf/female/bloodelffemale_hd_bone_182
+    100190: character/bloodelf/female/bloodelffemale_hd_bone_183
+    100192: character/bloodelf/female/bloodelffemale_hd_bone_184
+    100194: character/bloodelf/female/bloodelffemale_hd_bone_185
+    100196: character/bloodelf/female/bloodelffemale_hd_bone_186
+    100198: character/bloodelf/female/bloodelffemale_hd_bone_187
+    100200: character/bloodelf/female/bloodelffemale_hd_bone_188
+    100202: character/bloodelf/female/bloodelffemale_hd_bone_189
+    100204: character/bloodelf/female/bloodelffemale_hd_bone_19
+    100206: character/bloodelf/female/bloodelffemale_hd_bone_190
+    100208: character/bloodelf/female/bloodelffemale_hd_bone_191
+    100210: character/bloodelf/female/bloodelffemale_hd_bone_192
+    100212: character/bloodelf/female/bloodelffemale_hd_bone_193
+    100214: character/bloodelf/female/bloodelffemale_hd_bone_194
+    100216: character/bloodelf/female/bloodelffemale_hd_bone_195
+    100218: character/bloodelf/female/bloodelffemale_hd_bone_196
+    100220: character/bloodelf/female/bloodelffemale_hd_bone_197
+    100222: character/bloodelf/female/bloodelffemale_hd_bone_198
+    100224: character/bloodelf/female/bloodelffemale_hd_bone_199
+    100226: character/bloodelf/female/bloodelffemale_hd_bone_2
+    100228: character/bloodelf/female/bloodelffemale_hd_bone_20
+    100230: character/bloodelf/female/bloodelffemale_hd_bone_200
+    100232: character/bloodelf/female/bloodelffemale_hd_bone_201
+    100234: character/bloodelf/female/bloodelffemale_hd_bone_202
+    100236: character/bloodelf/female/bloodelffemale_hd_bone_203
+    100238: character/bloodelf/female/bloodelffemale_hd_bone_204
+    100240: character/bloodelf/female/bloodelffemale_hd_bone_205
+    100242: character/bloodelf/female/bloodelffemale_hd_bone_206
+    100244: character/bloodelf/female/bloodelffemale_hd_bone_207
+    100246: character/bloodelf/female/bloodelffemale_hd_bone_208
+    100248: character/bloodelf/female/bloodelffemale_hd_bone_209
+    100250: character/bloodelf/female/bloodelffemale_hd_bone_21
+    100252: character/bloodelf/female/bloodelffemale_hd_bone_210
+    100254: character/bloodelf/female/bloodelffemale_hd_bone_211
+    100256: character/bloodelf/female/bloodelffemale_hd_bone_212
+    100258: character/bloodelf/female/bloodelffemale_hd_bone_213
+    100260: character/bloodelf/female/bloodelffemale_hd_bone_214
+    100262: character/bloodelf/female/bloodelffemale_hd_bone_215
+    100264: character/bloodelf/female/bloodelffemale_hd_bone_216
+    100266: character/bloodelf/female/bloodelffemale_hd_bone_217
+    100268: character/bloodelf/female/bloodelffemale_hd_bone_218
+    100270: character/bloodelf/female/bloodelffemale_hd_bone_219
+    100272: character/bloodelf/female/bloodelffemale_hd_bone_22
+    100274: character/bloodelf/female/bloodelffemale_hd_bone_220
+    100276: character/bloodelf/female/bloodelffemale_hd_bone_221
+    100278: character/bloodelf/female/bloodelffemale_hd_bone_222
+    100280: character/bloodelf/female/bloodelffemale_hd_bone_223
+    100282: character/bloodelf/female/bloodelffemale_hd_bone_224
+    100284: character/bloodelf/female/bloodelffemale_hd_bone_225
+    100286: character/bloodelf/female/bloodelffemale_hd_bone_226
+    100288: character/bloodelf/female/bloodelffemale_hd_bone_227
+    100290: character/bloodelf/female/bloodelffemale_hd_bone_228
+    100292: character/bloodelf/female/bloodelffemale_hd_bone_229
+    100294: character/bloodelf/female/bloodelffemale_hd_bone_23
+    100296: character/bloodelf/female/bloodelffemale_hd_bone_230
+    100298: character/bloodelf/female/bloodelffemale_hd_bone_231
+    100300: character/bloodelf/female/bloodelffemale_hd_bone_232
+    100302: character/bloodelf/female/bloodelffemale_hd_bone_233
+    100304: character/bloodelf/female/bloodelffemale_hd_bone_234
+    100306: character/bloodelf/female/bloodelffemale_hd_bone_235
+    100308: character/bloodelf/female/bloodelffemale_hd_bone_236
+    100310: character/bloodelf/female/bloodelffemale_hd_bone_237
+    100312: character/bloodelf/female/bloodelffemale_hd_bone_238
+    100314: character/bloodelf/female/bloodelffemale_hd_bone_239
+    100316: character/bloodelf/female/bloodelffemale_hd_bone_24
+    100318: character/bloodelf/female/bloodelffemale_hd_bone_240
+    100320: character/bloodelf/female/bloodelffemale_hd_bone_241
+    100322: character/bloodelf/female/bloodelffemale_hd_bone_242
+    100324: character/bloodelf/female/bloodelffemale_hd_bone_243
+    100326: character/bloodelf/female/bloodelffemale_hd_bone_244
+    100328: character/bloodelf/female/bloodelffemale_hd_bone_25
+    100330: character/bloodelf/female/bloodelffemale_hd_bone_26
+    100332: character/bloodelf/female/bloodelffemale_hd_bone_27
+    100334: character/bloodelf/female/bloodelffemale_hd_bone_28
+    100336: character/bloodelf/female/bloodelffemale_hd_bone_29
+    100338: character/bloodelf/female/bloodelffemale_hd_bone_3
+    100340: character/bloodelf/female/bloodelffemale_hd_bone_30
+    100342: character/bloodelf/female/bloodelffemale_hd_bone_31
+    100344: character/bloodelf/female/bloodelffemale_hd_bone_32
+    100346: character/bloodelf/female/bloodelffemale_hd_bone_33
+    100348: character/bloodelf/female/bloodelffemale_hd_bone_34
+    100350: character/bloodelf/female/bloodelffemale_hd_bone_35
+    100352: character/bloodelf/female/bloodelffemale_hd_bone_36
+    100354: character/bloodelf/female/bloodelffemale_hd_bone_37
+    100356: character/bloodelf/female/bloodelffemale_hd_bone_38
+    100358: character/bloodelf/female/bloodelffemale_hd_bone_39
+    100360: character/bloodelf/female/bloodelffemale_hd_bone_4
+    100362: character/bloodelf/female/bloodelffemale_hd_bone_40
+    100364: character/bloodelf/female/bloodelffemale_hd_bone_41
+    100366: character/bloodelf/female/bloodelffemale_hd_bone_42
+    100368: character/bloodelf/female/bloodelffemale_hd_bone_43
+    100370: character/bloodelf/female/bloodelffemale_hd_bone_44
+    100372: character/bloodelf/female/bloodelffemale_hd_bone_45
+    100374: character/bloodelf/female/bloodelffemale_hd_bone_46
+    100376: character/bloodelf/female/bloodelffemale_hd_bone_47
+    100378: character/bloodelf/female/bloodelffemale_hd_bone_48
+    100380: character/bloodelf/female/bloodelffemale_hd_bone_49
+    100382: character/bloodelf/female/bloodelffemale_hd_bone_5
+    100384: character/bloodelf/female/bloodelffemale_hd_bone_50
+    100386: character/bloodelf/female/bloodelffemale_hd_bone_51
+    100388: character/bloodelf/female/bloodelffemale_hd_bone_52
+    100390: character/bloodelf/female/bloodelffemale_hd_bone_53
+    100392: character/bloodelf/female/bloodelffemale_hd_bone_54
+    100394: character/bloodelf/female/bloodelffemale_hd_bone_55
+    100396: character/bloodelf/female/bloodelffemale_hd_bone_56
+    100398: character/bloodelf/female/bloodelffemale_hd_bone_57
+    100400: character/bloodelf/female/bloodelffemale_hd_bone_58
+    100402: character/bloodelf/female/bloodelffemale_hd_bone_59
+    100404: character/bloodelf/female/bloodelffemale_hd_bone_6
+    100406: character/bloodelf/female/bloodelffemale_hd_bone_60
+    100408: character/bloodelf/female/bloodelffemale_hd_bone_61
+    100410: character/bloodelf/female/bloodelffemale_hd_bone_62
+    100412: character/bloodelf/female/bloodelffemale_hd_bone_63
+    100414: character/bloodelf/female/bloodelffemale_hd_bone_64
+    100416: character/bloodelf/female/bloodelffemale_hd_bone_65
+    100418: character/bloodelf/female/bloodelffemale_hd_bone_66
+    100420: character/bloodelf/female/bloodelffemale_hd_bone_67
+    100422: character/bloodelf/female/bloodelffemale_hd_bone_68
+    100424: character/bloodelf/female/bloodelffemale_hd_bone_69
+    100426: character/bloodelf/female/bloodelffemale_hd_bone_7
+    100428: character/bloodelf/female/bloodelffemale_hd_bone_70
+    100430: character/bloodelf/female/bloodelffemale_hd_bone_71
+    100432: character/bloodelf/female/bloodelffemale_hd_bone_72
+    100434: character/bloodelf/female/bloodelffemale_hd_bone_73
+    100436: character/bloodelf/female/bloodelffemale_hd_bone_74
+    100438: character/bloodelf/female/bloodelffemale_hd_bone_75
+    100440: character/bloodelf/female/bloodelffemale_hd_bone_76
+    100442: character/bloodelf/female/bloodelffemale_hd_bone_77
+    100444: character/bloodelf/female/bloodelffemale_hd_bone_78
+    100446: character/bloodelf/female/bloodelffemale_hd_bone_79
+    100448: character/bloodelf/female/bloodelffemale_hd_bone_8
+    100450: character/bloodelf/female/bloodelffemale_hd_bone_80
+    100452: character/bloodelf/female/bloodelffemale_hd_bone_81
+    100454: character/bloodelf/female/bloodelffemale_hd_bone_82
+    100456: character/bloodelf/female/bloodelffemale_hd_bone_83
+    100458: character/bloodelf/female/bloodelffemale_hd_bone_84
+    100460: character/bloodelf/female/bloodelffemale_hd_bone_85
+    100462: character/bloodelf/female/bloodelffemale_hd_bone_86
+    100464: character/bloodelf/female/bloodelffemale_hd_bone_87
+    100466: character/bloodelf/female/bloodelffemale_hd_bone_88
+    100468: character/bloodelf/female/bloodelffemale_hd_bone_89
+    100470: character/bloodelf/female/bloodelffemale_hd_bone_9
+    100472: character/bloodelf/female/bloodelffemale_hd_bone_90
+    100474: character/bloodelf/female/bloodelffemale_hd_bone_91
+    100476: character/bloodelf/female/bloodelffemale_hd_bone_92
+    100478: character/bloodelf/female/bloodelffemale_hd_bone_93
+    100480: character/bloodelf/female/bloodelffemale_hd_bone_94
+    100482: character/bloodelf/female/bloodelffemale_hd_bone_95
+    100484: character/bloodelf/female/bloodelffemale_hd_bone_96
+    100486: character/bloodelf/female/bloodelffemale_hd_bone_97
+    100488: character/bloodelf/female/bloodelffemale_hd_bone_98
+    100490: character/bloodelf/female/bloodelffemale_hd_bone_99
+    100492: character/bloodelf/female/bloodelffemale_hd_rig
+    400000: //RootNode
+    400002: character/bloodelf/female/bloodelffemale_hd_bone_0
+    400004: character/bloodelf/female/bloodelffemale_hd_bone_1
+    400006: character/bloodelf/female/bloodelffemale_hd_bone_10
+    400008: character/bloodelf/female/bloodelffemale_hd_bone_100
+    400010: character/bloodelf/female/bloodelffemale_hd_bone_101
+    400012: character/bloodelf/female/bloodelffemale_hd_bone_102
+    400014: character/bloodelf/female/bloodelffemale_hd_bone_103
+    400016: character/bloodelf/female/bloodelffemale_hd_bone_104
+    400018: character/bloodelf/female/bloodelffemale_hd_bone_105
+    400020: character/bloodelf/female/bloodelffemale_hd_bone_106
+    400022: character/bloodelf/female/bloodelffemale_hd_bone_107
+    400024: character/bloodelf/female/bloodelffemale_hd_bone_108
+    400026: character/bloodelf/female/bloodelffemale_hd_bone_109
+    400028: character/bloodelf/female/bloodelffemale_hd_bone_11
+    400030: character/bloodelf/female/bloodelffemale_hd_bone_110
+    400032: character/bloodelf/female/bloodelffemale_hd_bone_111
+    400034: character/bloodelf/female/bloodelffemale_hd_bone_112
+    400036: character/bloodelf/female/bloodelffemale_hd_bone_113
+    400038: character/bloodelf/female/bloodelffemale_hd_bone_114
+    400040: character/bloodelf/female/bloodelffemale_hd_bone_115
+    400042: character/bloodelf/female/bloodelffemale_hd_bone_116
+    400044: character/bloodelf/female/bloodelffemale_hd_bone_117
+    400046: character/bloodelf/female/bloodelffemale_hd_bone_118
+    400048: character/bloodelf/female/bloodelffemale_hd_bone_119
+    400050: character/bloodelf/female/bloodelffemale_hd_bone_12
+    400052: character/bloodelf/female/bloodelffemale_hd_bone_120
+    400054: character/bloodelf/female/bloodelffemale_hd_bone_121
+    400056: character/bloodelf/female/bloodelffemale_hd_bone_122
+    400058: character/bloodelf/female/bloodelffemale_hd_bone_123
+    400060: character/bloodelf/female/bloodelffemale_hd_bone_124
+    400062: character/bloodelf/female/bloodelffemale_hd_bone_125
+    400064: character/bloodelf/female/bloodelffemale_hd_bone_126
+    400066: character/bloodelf/female/bloodelffemale_hd_bone_127
+    400068: character/bloodelf/female/bloodelffemale_hd_bone_128
+    400070: character/bloodelf/female/bloodelffemale_hd_bone_129
+    400072: character/bloodelf/female/bloodelffemale_hd_bone_13
+    400074: character/bloodelf/female/bloodelffemale_hd_bone_130
+    400076: character/bloodelf/female/bloodelffemale_hd_bone_131
+    400078: character/bloodelf/female/bloodelffemale_hd_bone_132
+    400080: character/bloodelf/female/bloodelffemale_hd_bone_133
+    400082: character/bloodelf/female/bloodelffemale_hd_bone_134
+    400084: character/bloodelf/female/bloodelffemale_hd_bone_135
+    400086: character/bloodelf/female/bloodelffemale_hd_bone_136
+    400088: character/bloodelf/female/bloodelffemale_hd_bone_137
+    400090: character/bloodelf/female/bloodelffemale_hd_bone_138
+    400092: character/bloodelf/female/bloodelffemale_hd_bone_139
+    400094: character/bloodelf/female/bloodelffemale_hd_bone_14
+    400096: character/bloodelf/female/bloodelffemale_hd_bone_140
+    400098: character/bloodelf/female/bloodelffemale_hd_bone_141
+    400100: character/bloodelf/female/bloodelffemale_hd_bone_142
+    400102: character/bloodelf/female/bloodelffemale_hd_bone_143
+    400104: character/bloodelf/female/bloodelffemale_hd_bone_144
+    400106: character/bloodelf/female/bloodelffemale_hd_bone_145
+    400108: character/bloodelf/female/bloodelffemale_hd_bone_146
+    400110: character/bloodelf/female/bloodelffemale_hd_bone_147
+    400112: character/bloodelf/female/bloodelffemale_hd_bone_148
+    400114: character/bloodelf/female/bloodelffemale_hd_bone_149
+    400116: character/bloodelf/female/bloodelffemale_hd_bone_15
+    400118: character/bloodelf/female/bloodelffemale_hd_bone_150
+    400120: character/bloodelf/female/bloodelffemale_hd_bone_151
+    400122: character/bloodelf/female/bloodelffemale_hd_bone_152
+    400124: character/bloodelf/female/bloodelffemale_hd_bone_153
+    400126: character/bloodelf/female/bloodelffemale_hd_bone_154
+    400128: character/bloodelf/female/bloodelffemale_hd_bone_155
+    400130: character/bloodelf/female/bloodelffemale_hd_bone_156
+    400132: character/bloodelf/female/bloodelffemale_hd_bone_157
+    400134: character/bloodelf/female/bloodelffemale_hd_bone_158
+    400136: character/bloodelf/female/bloodelffemale_hd_bone_159
+    400138: character/bloodelf/female/bloodelffemale_hd_bone_16
+    400140: character/bloodelf/female/bloodelffemale_hd_bone_160
+    400142: character/bloodelf/female/bloodelffemale_hd_bone_161
+    400144: character/bloodelf/female/bloodelffemale_hd_bone_162
+    400146: character/bloodelf/female/bloodelffemale_hd_bone_163
+    400148: character/bloodelf/female/bloodelffemale_hd_bone_164
+    400150: character/bloodelf/female/bloodelffemale_hd_bone_165
+    400152: character/bloodelf/female/bloodelffemale_hd_bone_166
+    400154: character/bloodelf/female/bloodelffemale_hd_bone_167
+    400156: character/bloodelf/female/bloodelffemale_hd_bone_168
+    400158: character/bloodelf/female/bloodelffemale_hd_bone_169
+    400160: character/bloodelf/female/bloodelffemale_hd_bone_17
+    400162: character/bloodelf/female/bloodelffemale_hd_bone_170
+    400164: character/bloodelf/female/bloodelffemale_hd_bone_171
+    400166: character/bloodelf/female/bloodelffemale_hd_bone_172
+    400168: character/bloodelf/female/bloodelffemale_hd_bone_173
+    400170: character/bloodelf/female/bloodelffemale_hd_bone_174
+    400172: character/bloodelf/female/bloodelffemale_hd_bone_175
+    400174: character/bloodelf/female/bloodelffemale_hd_bone_176
+    400176: character/bloodelf/female/bloodelffemale_hd_bone_177
+    400178: character/bloodelf/female/bloodelffemale_hd_bone_178
+    400180: character/bloodelf/female/bloodelffemale_hd_bone_179
+    400182: character/bloodelf/female/bloodelffemale_hd_bone_18
+    400184: character/bloodelf/female/bloodelffemale_hd_bone_180
+    400186: character/bloodelf/female/bloodelffemale_hd_bone_181
+    400188: character/bloodelf/female/bloodelffemale_hd_bone_182
+    400190: character/bloodelf/female/bloodelffemale_hd_bone_183
+    400192: character/bloodelf/female/bloodelffemale_hd_bone_184
+    400194: character/bloodelf/female/bloodelffemale_hd_bone_185
+    400196: character/bloodelf/female/bloodelffemale_hd_bone_186
+    400198: character/bloodelf/female/bloodelffemale_hd_bone_187
+    400200: character/bloodelf/female/bloodelffemale_hd_bone_188
+    400202: character/bloodelf/female/bloodelffemale_hd_bone_189
+    400204: character/bloodelf/female/bloodelffemale_hd_bone_19
+    400206: character/bloodelf/female/bloodelffemale_hd_bone_190
+    400208: character/bloodelf/female/bloodelffemale_hd_bone_191
+    400210: character/bloodelf/female/bloodelffemale_hd_bone_192
+    400212: character/bloodelf/female/bloodelffemale_hd_bone_193
+    400214: character/bloodelf/female/bloodelffemale_hd_bone_194
+    400216: character/bloodelf/female/bloodelffemale_hd_bone_195
+    400218: character/bloodelf/female/bloodelffemale_hd_bone_196
+    400220: character/bloodelf/female/bloodelffemale_hd_bone_197
+    400222: character/bloodelf/female/bloodelffemale_hd_bone_198
+    400224: character/bloodelf/female/bloodelffemale_hd_bone_199
+    400226: character/bloodelf/female/bloodelffemale_hd_bone_2
+    400228: character/bloodelf/female/bloodelffemale_hd_bone_20
+    400230: character/bloodelf/female/bloodelffemale_hd_bone_200
+    400232: character/bloodelf/female/bloodelffemale_hd_bone_201
+    400234: character/bloodelf/female/bloodelffemale_hd_bone_202
+    400236: character/bloodelf/female/bloodelffemale_hd_bone_203
+    400238: character/bloodelf/female/bloodelffemale_hd_bone_204
+    400240: character/bloodelf/female/bloodelffemale_hd_bone_205
+    400242: character/bloodelf/female/bloodelffemale_hd_bone_206
+    400244: character/bloodelf/female/bloodelffemale_hd_bone_207
+    400246: character/bloodelf/female/bloodelffemale_hd_bone_208
+    400248: character/bloodelf/female/bloodelffemale_hd_bone_209
+    400250: character/bloodelf/female/bloodelffemale_hd_bone_21
+    400252: character/bloodelf/female/bloodelffemale_hd_bone_210
+    400254: character/bloodelf/female/bloodelffemale_hd_bone_211
+    400256: character/bloodelf/female/bloodelffemale_hd_bone_212
+    400258: character/bloodelf/female/bloodelffemale_hd_bone_213
+    400260: character/bloodelf/female/bloodelffemale_hd_bone_214
+    400262: character/bloodelf/female/bloodelffemale_hd_bone_215
+    400264: character/bloodelf/female/bloodelffemale_hd_bone_216
+    400266: character/bloodelf/female/bloodelffemale_hd_bone_217
+    400268: character/bloodelf/female/bloodelffemale_hd_bone_218
+    400270: character/bloodelf/female/bloodelffemale_hd_bone_219
+    400272: character/bloodelf/female/bloodelffemale_hd_bone_22
+    400274: character/bloodelf/female/bloodelffemale_hd_bone_220
+    400276: character/bloodelf/female/bloodelffemale_hd_bone_221
+    400278: character/bloodelf/female/bloodelffemale_hd_bone_222
+    400280: character/bloodelf/female/bloodelffemale_hd_bone_223
+    400282: character/bloodelf/female/bloodelffemale_hd_bone_224
+    400284: character/bloodelf/female/bloodelffemale_hd_bone_225
+    400286: character/bloodelf/female/bloodelffemale_hd_bone_226
+    400288: character/bloodelf/female/bloodelffemale_hd_bone_227
+    400290: character/bloodelf/female/bloodelffemale_hd_bone_228
+    400292: character/bloodelf/female/bloodelffemale_hd_bone_229
+    400294: character/bloodelf/female/bloodelffemale_hd_bone_23
+    400296: character/bloodelf/female/bloodelffemale_hd_bone_230
+    400298: character/bloodelf/female/bloodelffemale_hd_bone_231
+    400300: character/bloodelf/female/bloodelffemale_hd_bone_232
+    400302: character/bloodelf/female/bloodelffemale_hd_bone_233
+    400304: character/bloodelf/female/bloodelffemale_hd_bone_234
+    400306: character/bloodelf/female/bloodelffemale_hd_bone_235
+    400308: character/bloodelf/female/bloodelffemale_hd_bone_236
+    400310: character/bloodelf/female/bloodelffemale_hd_bone_237
+    400312: character/bloodelf/female/bloodelffemale_hd_bone_238
+    400314: character/bloodelf/female/bloodelffemale_hd_bone_239
+    400316: character/bloodelf/female/bloodelffemale_hd_bone_24
+    400318: character/bloodelf/female/bloodelffemale_hd_bone_240
+    400320: character/bloodelf/female/bloodelffemale_hd_bone_241
+    400322: character/bloodelf/female/bloodelffemale_hd_bone_242
+    400324: character/bloodelf/female/bloodelffemale_hd_bone_243
+    400326: character/bloodelf/female/bloodelffemale_hd_bone_244
+    400328: character/bloodelf/female/bloodelffemale_hd_bone_25
+    400330: character/bloodelf/female/bloodelffemale_hd_bone_26
+    400332: character/bloodelf/female/bloodelffemale_hd_bone_27
+    400334: character/bloodelf/female/bloodelffemale_hd_bone_28
+    400336: character/bloodelf/female/bloodelffemale_hd_bone_29
+    400338: character/bloodelf/female/bloodelffemale_hd_bone_3
+    400340: character/bloodelf/female/bloodelffemale_hd_bone_30
+    400342: character/bloodelf/female/bloodelffemale_hd_bone_31
+    400344: character/bloodelf/female/bloodelffemale_hd_bone_32
+    400346: character/bloodelf/female/bloodelffemale_hd_bone_33
+    400348: character/bloodelf/female/bloodelffemale_hd_bone_34
+    400350: character/bloodelf/female/bloodelffemale_hd_bone_35
+    400352: character/bloodelf/female/bloodelffemale_hd_bone_36
+    400354: character/bloodelf/female/bloodelffemale_hd_bone_37
+    400356: character/bloodelf/female/bloodelffemale_hd_bone_38
+    400358: character/bloodelf/female/bloodelffemale_hd_bone_39
+    400360: character/bloodelf/female/bloodelffemale_hd_bone_4
+    400362: character/bloodelf/female/bloodelffemale_hd_bone_40
+    400364: character/bloodelf/female/bloodelffemale_hd_bone_41
+    400366: character/bloodelf/female/bloodelffemale_hd_bone_42
+    400368: character/bloodelf/female/bloodelffemale_hd_bone_43
+    400370: character/bloodelf/female/bloodelffemale_hd_bone_44
+    400372: character/bloodelf/female/bloodelffemale_hd_bone_45
+    400374: character/bloodelf/female/bloodelffemale_hd_bone_46
+    400376: character/bloodelf/female/bloodelffemale_hd_bone_47
+    400378: character/bloodelf/female/bloodelffemale_hd_bone_48
+    400380: character/bloodelf/female/bloodelffemale_hd_bone_49
+    400382: character/bloodelf/female/bloodelffemale_hd_bone_5
+    400384: character/bloodelf/female/bloodelffemale_hd_bone_50
+    400386: character/bloodelf/female/bloodelffemale_hd_bone_51
+    400388: character/bloodelf/female/bloodelffemale_hd_bone_52
+    400390: character/bloodelf/female/bloodelffemale_hd_bone_53
+    400392: character/bloodelf/female/bloodelffemale_hd_bone_54
+    400394: character/bloodelf/female/bloodelffemale_hd_bone_55
+    400396: character/bloodelf/female/bloodelffemale_hd_bone_56
+    400398: character/bloodelf/female/bloodelffemale_hd_bone_57
+    400400: character/bloodelf/female/bloodelffemale_hd_bone_58
+    400402: character/bloodelf/female/bloodelffemale_hd_bone_59
+    400404: character/bloodelf/female/bloodelffemale_hd_bone_6
+    400406: character/bloodelf/female/bloodelffemale_hd_bone_60
+    400408: character/bloodelf/female/bloodelffemale_hd_bone_61
+    400410: character/bloodelf/female/bloodelffemale_hd_bone_62
+    400412: character/bloodelf/female/bloodelffemale_hd_bone_63
+    400414: character/bloodelf/female/bloodelffemale_hd_bone_64
+    400416: character/bloodelf/female/bloodelffemale_hd_bone_65
+    400418: character/bloodelf/female/bloodelffemale_hd_bone_66
+    400420: character/bloodelf/female/bloodelffemale_hd_bone_67
+    400422: character/bloodelf/female/bloodelffemale_hd_bone_68
+    400424: character/bloodelf/female/bloodelffemale_hd_bone_69
+    400426: character/bloodelf/female/bloodelffemale_hd_bone_7
+    400428: character/bloodelf/female/bloodelffemale_hd_bone_70
+    400430: character/bloodelf/female/bloodelffemale_hd_bone_71
+    400432: character/bloodelf/female/bloodelffemale_hd_bone_72
+    400434: character/bloodelf/female/bloodelffemale_hd_bone_73
+    400436: character/bloodelf/female/bloodelffemale_hd_bone_74
+    400438: character/bloodelf/female/bloodelffemale_hd_bone_75
+    400440: character/bloodelf/female/bloodelffemale_hd_bone_76
+    400442: character/bloodelf/female/bloodelffemale_hd_bone_77
+    400444: character/bloodelf/female/bloodelffemale_hd_bone_78
+    400446: character/bloodelf/female/bloodelffemale_hd_bone_79
+    400448: character/bloodelf/female/bloodelffemale_hd_bone_8
+    400450: character/bloodelf/female/bloodelffemale_hd_bone_80
+    400452: character/bloodelf/female/bloodelffemale_hd_bone_81
+    400454: character/bloodelf/female/bloodelffemale_hd_bone_82
+    400456: character/bloodelf/female/bloodelffemale_hd_bone_83
+    400458: character/bloodelf/female/bloodelffemale_hd_bone_84
+    400460: character/bloodelf/female/bloodelffemale_hd_bone_85
+    400462: character/bloodelf/female/bloodelffemale_hd_bone_86
+    400464: character/bloodelf/female/bloodelffemale_hd_bone_87
+    400466: character/bloodelf/female/bloodelffemale_hd_bone_88
+    400468: character/bloodelf/female/bloodelffemale_hd_bone_89
+    400470: character/bloodelf/female/bloodelffemale_hd_bone_9
+    400472: character/bloodelf/female/bloodelffemale_hd_bone_90
+    400474: character/bloodelf/female/bloodelffemale_hd_bone_91
+    400476: character/bloodelf/female/bloodelffemale_hd_bone_92
+    400478: character/bloodelf/female/bloodelffemale_hd_bone_93
+    400480: character/bloodelf/female/bloodelffemale_hd_bone_94
+    400482: character/bloodelf/female/bloodelffemale_hd_bone_95
+    400484: character/bloodelf/female/bloodelffemale_hd_bone_96
+    400486: character/bloodelf/female/bloodelffemale_hd_bone_97
+    400488: character/bloodelf/female/bloodelffemale_hd_bone_98
+    400490: character/bloodelf/female/bloodelffemale_hd_bone_99
+    400492: character/bloodelf/female/bloodelffemale_hd_rig
+    7400000: Stand [45]
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [45]
+      takeName: Stand [45]
+      firstFrame: 0
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.03
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: bloodelf_Stand_45(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_rig
+      parentName: bloodelf_Stand_45(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_0
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_1
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_0
+      position: {x: -0.004745662, y: 1.7040884, z: -0.02450544}
+      rotation: {x: -0.03377876, y: -0.6044095, z: 0.025167901, w: 0.7955594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_2
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_1
+      position: {x: -0.000000011175871, y: -0.019828856, z: 0}
+      rotation: {x: 0.06732286, y: -0.1759987, z: 0.11325299, w: 0.9755336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_4
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: -0.15717633, y: 0.014766812, z: -0.00000007080962}
+      rotation: {x: -0.14947806, y: -0.050141808, z: -0.13522604, w: 0.9781902}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_10
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_4
+      position: {x: -0, y: -0.16115338, z: 0}
+      rotation: {x: 0.042633627, y: 0.12600812, z: 0.029175323, w: 0.9906832}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_17
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_10
+      position: {x: -0, y: -0.2310647, z: 0}
+      rotation: {x: -0.007995767, y: -0.14166556, z: -0.0031128367, w: 0.9898774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_5
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: 0.20675404, y: -0.012448311, z: 0.00032778125}
+      rotation: {x: -0.055481955, y: 0.014923265, z: -0.061158314, w: 0.99647313}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_11
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_5
+      position: {x: 0.011249922, y: -0.19234765, z: -0.001291327}
+      rotation: {x: -0.002136281, y: 0.014709462, z: -0.055969242, w: 0.9983219}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_18
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_11
+      position: {x: -0, y: -0.14987639, z: 0}
+      rotation: {x: -0.0060120947, y: 0.016968088, z: -0.045746725, w: 0.99879086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_6
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: 0.019755146, y: -0.04623896, z: 0.1238253}
+      rotation: {x: -0.17547703, y: 0.064970374, z: -0.14795013, w: 0.97113204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_12
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_6
+      position: {x: 0.00012393911, y: -0.7443226, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_13
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_6
+      position: {x: 0.00012393911, y: -0.7443226, z: 0}
+      rotation: {x: -0.0005171001, y: 0.040654913, z: 0.026839813, w: 0.9988126}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_19
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_13
+      position: {x: 0.09126466, y: -0.78441924, z: -0.000000011175871}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_27
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_19
+      position: {x: 0.000052506057, y: 0.0000060131547, z: -0.0006554201}
+      rotation: {x: 0.083956346, y: 0.17210838, z: 0.045927037, w: 0.9804186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_33
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_27
+      position: {x: -0.24415168, y: -0.0806362, z: 0}
+      rotation: {x: -6.502013e-12, y: 0.00012207037, z: -0.00088501023, w: 0.99999964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_217
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_27
+      position: {x: 0.000000033527613, y: -0.000000044703484, z: -0.00000010058284}
+      rotation: {x: 0.6981124, y: 0.11220666, z: 0.11450561, w: 0.69780886}
+      scale: {x: 1.08047, y: 1.08047, z: 1.08047}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_219
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_27
+      position: {x: -0.15523416, y: -0.12211625, z: -0.00000011175871}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_203
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_13
+      position: {x: -0.1816214, y: -0.021436572, z: -0.00043467432}
+      rotation: {x: 0.0005798428, y: -0.16852234, z: 0.003387537, w: 0.98569185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_201
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_6
+      position: {x: 0.098072805, y: -0.121310405, z: 0.19324107}
+      rotation: {x: -0.08716009, y: 0, z: -0, w: 0.9961943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_7
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: -0.15552835, y: 0.051668465, z: 0.0034231346}
+      rotation: {x: 0.0077211633, y: 0.016815664, z: -0.038514275, w: 0.99908674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_200
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_7
+      position: {x: 0.000000011175871, y: -0.00000017881393, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.65000004, y: 0.6500006, z: 0.65}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_8
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: 0.019755146, y: -0.04623896, z: -0.12316974}
+      rotation: {x: -0.115845785, y: -0.075226836, z: -0.05340594, w: 0.9889735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_14
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_8
+      position: {x: 0.00012873486, y: -0.7678578, z: 0}
+      rotation: {x: 0.0013589858, y: -0.05015988, z: -0.053160686, w: 0.99732447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_20
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_14
+      position: {x: 0.09086465, y: -0.78098154, z: -0.000000011175871}
+      rotation: {x: 0.00010908081, y: 0.000012647361, z: 0.025006982, w: 0.9996873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_28
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_20
+      position: {x: -0.000000011175871, y: 0.000000055879354, z: 0.000000011175871}
+      rotation: {x: 0.015045395, y: -0.038422156, z: -0.014709697, w: 0.99904007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_34
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_28
+      position: {x: -0.24415134, y: -0.08063637, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_215
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_28
+      position: {x: -0.1552431, y: -0.12211638, z: 0.00000021234155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_218
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_28
+      position: {x: -0.000000011175871, y: -0.00000008940697, z: 0.00000015646219}
+      rotation: {x: 0.69811195, y: 0.11230121, z: 0.11227779, w: 0.69815606}
+      scale: {x: 1.08047, y: 1.08047, z: 1.08047}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_205
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_14
+      position: {x: -0.1753381, y: -0.016309083, z: 0.000000078231096}
+      rotation: {x: 0, y: 0, z: 0.022919128, w: 0.9997373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_15
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_8
+      position: {x: 0.00012873486, y: -0.7678578, z: 0}
+      rotation: {x: 0, y: -0.069795646, z: -0, w: 0.99756134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_199
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_8
+      position: {x: 0.098072805, y: -0.12131059, z: -0.193241}
+      rotation: {x: 0.08712934, y: -0, z: -0, w: 0.996197}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_193
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: 0.023180962, y: 0.04268843, z: -0.24380252}
+      rotation: {x: 0.37471086, y: 0.924134, z: 0.06155668, w: 0.042177092}
+      scale: {x: 0.87, y: 0.87, z: 0.87}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_196
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_2
+      position: {x: 0.02317985, y: 0.04268843, z: 0.22993076}
+      rotation: {x: 0.34961402, y: 0.9309845, z: -0.08854083, w: -0.056554556}
+      scale: {x: 0.87, y: 0.86999816, z: 0.87000173}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_3
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_1
+      position: {x: 0.000000008381903, y: 0.019828856, z: 0}
+      rotation: {x: 0.100585386, y: -0.12091004, z: 0.017332999, w: 0.9874021}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_9
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: -0.017191097, y: 0.10184598, z: 0.00032778125}
+      rotation: {x: -0.06564407, y: -0.027801834, z: -0.0003661455, w: 0.99745566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_16
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_9
+      position: {x: 0.013098883, y: 0.2310106, z: 0}
+      rotation: {x: -0.100007646, y: 0.029632945, z: -0.02023355, w: 0.99433947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_21
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.04485176, y: 0.3044734, z: -0.057995096}
+      rotation: {x: 0.0014036745, y: 0.04025283, z: -0.06365991, w: 0.9971586}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_29
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_21
+      position: {x: 0.044690847, y: 0.006799221, z: -0.15934241}
+      rotation: {x: 0.5029368, y: 0.07144243, z: 0.21198006, w: 0.8348743}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_35
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_29
+      position: {x: 0.0195898, y: -0.37007424, z: -0.23697272}
+      rotation: {x: -0.0031738372, y: 0.059724048, z: 0.03820874, w: 0.99747837}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_36
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_29
+      position: {x: 0.009798713, y: -0.18503703, z: -0.1184863}
+      rotation: {x: -0.0015869335, y: 0.029877305, z: 0.019104382, w: 0.99936974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_37
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_29
+      position: {x: 0.0195898, y: -0.37007424, z: -0.23697272}
+      rotation: {x: 0.008904218, y: 0.016703023, z: 0.10252654, w: 0.9945502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_43
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_37
+      position: {x: -0.010997514, y: -0.12967068, z: -0.2275613}
+      rotation: {x: 0.17050545, y: -0.048279706, z: -0.03802586, w: 0.9834384}
+      scale: {x: 0.75, y: 0.75, z: 0.75}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_232
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_43
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_233
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_43
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_44
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_37
+      position: {x: -0.07415757, y: -0.34234887, z: -0.21922365}
+      rotation: {x: 0.03573694, y: -0.072450265, z: -0.05917492, w: 0.9949735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_104
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: -0.041279487, y: -0.1556865, z: -0.07930912}
+      rotation: {x: 0.0764798, y: -0.011092195, z: -0.020434817, w: 0.9968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_138
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_104
+      position: {x: -0.017531246, y: -0.09531847, z: -0.014977455}
+      rotation: {x: -0.12323095, y: 0.02316308, z: 0.0125732, w: 0.992028}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_105
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: 0.020658273, y: -0.16064608, z: -0.064365685}
+      rotation: {x: 0.10588301, y: 0.0015948486, z: -0.09628981, w: 0.9897043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_139
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_105
+      position: {x: 0.0012526363, y: -0.079912126, z: -0.009484917}
+      rotation: {x: -0.30048445, y: 0.040589392, z: -0.045930278, w: 0.9518151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_106
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: -0.078436665, y: -0.14949542, z: -0.063177645}
+      rotation: {x: 0.04278634, y: -0.0094606, z: -0.0018616143, w: 0.99903774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_140
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_106
+      position: {x: -0.016648972, y: -0.08691126, z: -0.021664515}
+      rotation: {x: -0.09066781, y: 0.034057762, z: 0.022003014, w: 0.99505544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_107
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: -0.07228611, y: -0.09373051, z: -0.009536728}
+      rotation: {x: 0.24199528, y: 0.13591167, z: 0.1868069, w: 0.94237435}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_141
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_107
+      position: {x: -0.051220305, y: -0.07273525, z: 0.0011110157}
+      rotation: {x: 0.0036927122, y: -0.0018311002, z: 0.047822166, w: 0.99884737}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_108
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: -0.048291594, y: -0.18289232, z: -0.013813376}
+      rotation: {x: 0.008087259, y: -0.05761801, z: 0.0076294886, w: 0.9982768}
+      scale: {x: 0.8699998, y: 0.87000006, z: 0.87000006}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_241
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_108
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_109
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: -0.0071766973, y: -0.15862352, z: -0.07988866}
+      rotation: {x: -0.056762874, y: 0.018066486, z: 0.007446256, w: 0.9981964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_142
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_109
+      position: {x: -0.009300085, y: -0.089367986, z: -0.009432614}
+      rotation: {x: -0.30066726, y: 0.04477042, z: -0.008423188, w: 0.9526405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_110
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_44
+      position: {x: 0.004051683, y: -0.19042718, z: -0.023187876}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.84999985, y: 0.8500001, z: 0.8500001}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_235
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1764705, y: 1.1764704, z: 1.1764709}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_237
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_244
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_237
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_239
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_243
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_45
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_37
+      position: {x: -0.037079185, y: -0.17117386, z: -0.10960944}
+      rotation: {x: -0.0038452663, y: -0.017700458, z: -0.011352708, w: 0.9997715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_46
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_37
+      position: {x: -0.07415831, y: -0.34234795, z: -0.21921885}
+      rotation: {x: -0.007690654, y: -0.03540143, z: -0.022705745, w: 0.9990856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_224
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_37
+      position: {x: 0.06396817, y: 0.0030101538, z: 0.0012352467}
+      rotation: {x: 0.1264677, y: -0.006561477, z: 0.024506154, w: 0.9916463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_216
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_29
+      position: {x: -0.0005019866, y: 0.08218932, z: 0.041398466}
+      rotation: {x: 0.13000818, y: 0.08639747, z: -0.011383226, w: 0.98767596}
+      scale: {x: 0.5199994, y: 0.5200001, z: 0.5200004}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_22
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.04482293, y: 0.29682103, z: 0.05793125}
+      rotation: {x: 0.0011727137, y: -0.00809104, z: -0.0009314327, w: 0.9999662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_30
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_22
+      position: {x: 0.044690907, y: 0.0067986846, z: 0.15933606}
+      rotation: {x: -0.4128757, y: -0.07006675, z: 0.057496537, w: 0.9062662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_38
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_30
+      position: {x: 0.01958982, y: -0.37007397, z: 0.23697269}
+      rotation: {x: -0.007992565, y: 0.002549134, z: 0.08962285, w: 0.9959405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_47
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_38
+      position: {x: -0.03707918, y: -0.17117415, z: 0.10960945}
+      rotation: {x: 0.004486123, y: 0.020843739, z: -0.013336327, w: 0.99968374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_48
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_38
+      position: {x: -0.074158445, y: -0.34234852, z: 0.21921895}
+      rotation: {x: 0.009002768, y: 0.041657057, z: -0.026672712, w: 0.9987353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_49
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_38
+      position: {x: -0.07416456, y: -0.34234914, z: 0.21922879}
+      rotation: {x: -0.13095263, y: 0.13998535, z: -0.030640753, w: 0.9809774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_111
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.0071766637, y: -0.15862495, z: 0.07988735}
+      rotation: {x: 0.089518115, y: -0.022094585, z: -0.052444864, w: 0.99435806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_143
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_111
+      position: {x: -0.009300029, y: -0.089366995, z: 0.009433329}
+      rotation: {x: 0.1422763, y: -0.009155484, z: -0.0013733418, w: 0.9897837}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_112
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.041279383, y: -0.15568773, z: 0.07930827}
+      rotation: {x: 0.09008971, y: -0.0139163, z: 0.003662156, w: 0.9958297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_144
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_112
+      position: {x: -0.017531237, y: -0.0953207, z: 0.014974952}
+      rotation: {x: 0.10168443, y: -0.006225607, z: 0.005157419, w: 0.9947839}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_113
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.07843654, y: -0.14949596, z: 0.06317487}
+      rotation: {x: 0.025076328, y: 0.019428872, z: 0.012767791, w: 0.9994152}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_145
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_113
+      position: {x: -0.016648963, y: -0.086912334, z: 0.021666706}
+      rotation: {x: 0.079498604, y: -0.00955207, z: 0.0074157575, w: 0.9967617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_114
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: 0.0040521137, y: -0.19042924, z: 0.023180142}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85, y: 0.85, z: 0.85}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_238
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_114
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_242
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_114
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_115
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.04829116, y: -0.18289411, z: 0.013805687}
+      rotation: {x: -0.008117795, y: 0.057648636, z: 0.0076295054, w: 0.9982748}
+      scale: {x: 0.87, y: 0.87, z: 0.87}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_236
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_115
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_240
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_115
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.69999987, y: 0.700001, z: 0.69999915}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_116
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.07228597, y: -0.09373355, z: 0.009533331}
+      rotation: {x: -0.20225963, y: -0.28474984, z: 0.09825871, w: 0.9318551}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_146
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_116
+      position: {x: -0.05122025, y: -0.07273328, z: -0.0011083335}
+      rotation: {x: 0.033326074, y: -0.019775927, z: 0.03845316, w: 0.99850875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_117
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: 0.020658335, y: -0.16064589, z: 0.06436237}
+      rotation: {x: 0.056647293, y: -0.015203763, z: 0.19473837, w: 0.9791001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_147
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_117
+      position: {x: 0.0012525078, y: -0.07991248, z: 0.009487465}
+      rotation: {x: 0.31149787, y: -0.008910497, z: -0.06836032, w: 0.94774294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_228
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.000000055879354, y: -0.00000035762787, z: 0.00000031292439}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_229
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.21932557, y: -0.9673115, z: 0.3507274}
+      rotation: {x: 0, y: 0, z: 0.7070834, w: 0.7071302}
+      scale: {x: 0.85000783, y: 0.8499915, z: 0.8500008}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_230
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.072314575, y: -1.6850916, z: -0.6736501}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_231
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.072314575, y: -1.6850916, z: -0.6736501}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_234
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_49
+      position: {x: -0.000000039115548, y: 0, z: 0.00000013411045}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_223
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_38
+      position: {x: 0.055384338, y: -0.03167975, z: -0.031556502}
+      rotation: {x: -0.15607245, y: 0.35641325, z: -0.13684662, w: 0.9109797}
+      scale: {x: 0.85000086, y: 0.85000056, z: 0.85}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_39
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_30
+      position: {x: 0.01958982, y: -0.37007397, z: 0.23697269}
+      rotation: {x: 0.0021056389, y: -0.040466215, z: 0.025909362, w: 0.9988428}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_40
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_30
+      position: {x: 0.009798735, y: -0.18503684, z: 0.118486315}
+      rotation: {x: 0.0010376042, y: -0.020233445, z: 0.01293964, w: 0.99971104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_220
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_30
+      position: {x: -0.0004978627, y: 0.082181275, z: -0.04139821}
+      rotation: {x: -0.13003887, y: -0.08636705, z: -0.01138327, w: 0.9876746}
+      scale: {x: 0.5199999, y: 0.51999986, z: 0.52}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_23
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: -0.09540472, y: 0.15408523, z: -0.107766174}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_24
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.20147279, y: 0.20764858, z: 0}
+      rotation: {x: 0.05355928, y: 0.052826777, z: 0.021637406, w: 0.9969316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_31
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_24
+      position: {x: -0, y: -0.35210878, z: 0}
+      rotation: {x: 0.031677715, y: -0.022980114, z: 0.026367573, w: 0.998886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_41
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_31
+      position: {x: -0, y: -0.35210878, z: 0}
+      rotation: {x: 0.014434828, y: -0.0057068467, z: 0.056915417, w: 0.99825835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_50
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_41
+      position: {x: -0, y: -0.3521087, z: 0}
+      rotation: {x: 0.0054016, y: -0.036926728, z: 0.05551214, w: 0.99776036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_118
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_50
+      position: {x: -0, y: -0.3521087, z: 0}
+      rotation: {x: -0.019897979, y: -0.03936861, z: 0.07190116, w: 0.9964359}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_25
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.07674502, y: 0.38157302, z: 0}
+      rotation: {x: 0.043640766, y: 0.087830655, z: 0.019775786, w: 0.99498254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_32
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_25
+      position: {x: -0.009425998, y: 0.072089374, z: 0}
+      rotation: {x: 0.094483696, y: 0.0066529466, z: -0.008209316, w: 0.99547035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_42
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_32
+      position: {x: -0.0085085705, y: 0.07558966, z: 0}
+      rotation: {x: -0.046540063, y: 0.00994901, z: 0.089418, w: 0.99485654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_51
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.12844725, y: 0.116063274, z: -0.0015080676}
+      rotation: {x: -0.0028992153, y: -0.018188797, z: -0.011078074, w: 0.99976903}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_119
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_51
+      position: {x: 0.030370113, y: -0.047971338, z: -0.0007094741}
+      rotation: {x: 0.002471995, y: -0.008941906, z: -0.012421011, w: 0.99987984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_148
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_119
+      position: {x: -0.0130799245, y: -0.03520904, z: 0.018661346}
+      rotation: {x: -0.0119020995, y: -0.02038618, z: -0.022858148, w: 0.99946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_157
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_148
+      position: {x: -0.058271877, y: -0.06363573, z: 0.059809845}
+      rotation: {x: -0.048676733, y: -0.03393639, z: -0.013672193, w: 0.99814427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_166
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_157
+      position: {x: -0.1238158, y: -0.06887578, z: 0.04703458}
+      rotation: {x: -0.029206118, y: -0.0073549375, z: -0.0013122902, w: 0.9995455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_169
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_166
+      position: {x: -0.09737148, y: -0.05878955, z: 0.008687957}
+      rotation: {x: -0.013855103, y: -0.010650743, z: -0.0141908005, w: 0.9997466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_172
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_169
+      position: {x: -0.10341116, y: -0.08283073, z: -0.005965834}
+      rotation: {x: 0.00643928, y: -0.010467634, z: -0.013214248, w: 0.99983716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_173
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_172
+      position: {x: -0.061255123, y: -0.11187669, z: -0.013304743}
+      rotation: {x: 0.020721944, y: -0.003540124, z: -0.0058290013, w: 0.99976206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_174
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_173
+      position: {x: -0.00836026, y: -0.20716155, z: -0.013098818}
+      rotation: {x: 0.041382663, y: 0.0042725494, z: -0.00415047, w: 0.99912566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_52
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17380626, y: 0.067780316, z: 0.02423175}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_53
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.13929287, y: 0.0060448446, z: -0.065566465}
+      rotation: {x: 0.00036621102, y: 0.00015258795, z: -0.0005493165, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_54
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.14416787, y: 0.044804532, z: -0.07348067}
+      rotation: {x: 0.00045776385, y: -0.00006103516, z: -0.0007934574, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_55
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17341353, y: 0.027812798, z: -0.04060271}
+      rotation: {x: -0.0018005468, y: 0.0003051772, z: -0.0027465967, w: 0.9999946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_56
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.03857732, y: 0.1408474, z: 0.087329134}
+      rotation: {x: -0.0121460445, y: -0.011322084, z: -0.0148926405, w: 0.9997512}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_120
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_56
+      position: {x: 0.01502895, y: -0.12979385, z: 0.013446448}
+      rotation: {x: -0.014282509, y: -0.020782912, z: -0.036011484, w: 0.99903315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_149
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_120
+      position: {x: 0.041760467, y: -0.13739869, z: 0.028689856}
+      rotation: {x: -0.03793435, y: -0.03527927, z: -0.047395047, w: 0.997532}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_158
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_149
+      position: {x: 0.027268399, y: -0.110375956, z: 0.037710086}
+      rotation: {x: -0.023865104, y: -0.012634485, z: -0.018402373, w: 0.99946594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_57
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.13516031, y: 0.10009271, z: -0.04463541}
+      rotation: {x: -0.00018311411, y: 0.007843116, z: -0.022644328, w: 0.9997128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_58
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.1606658, y: 0.17233777, z: -0.04276253}
+      rotation: {x: 0.037231978, y: 0.017486833, z: -0.0067139436, w: 0.9991311}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_59
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.1729732, y: 0.13378112, z: -0.042681877}
+      rotation: {x: 0.009857321, y: 0.07891943, z: 0.006103621, w: 0.9968136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_60
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.14342426, y: 0.12578672, z: -0.08253237}
+      rotation: {x: 0.037781224, y: 0.06854307, z: 0.034698933, w: 0.9963285}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_61
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.16574293, y: 0.117374614, z: -0.046178844}
+      rotation: {x: 0.035215575, y: 0.12677126, z: -0.31369352, w: 0.9403644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_62
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.16125989, y: 0.0838593, z: -0.052192032}
+      rotation: {x: -0.03454596, y: -0.014679041, z: -0.02587894, w: 0.9989602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_63
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.13341044, y: 0.16452077, z: 0}
+      rotation: {x: -0.022643954, y: -0.015564245, z: -0.19134618, w: 0.981138}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_121
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_63
+      position: {x: 0.0829839, y: 0.022015214, z: 0}
+      rotation: {x: -0.032654565, y: -0.016327394, z: -0.23254977, w: 0.97189903}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_150
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_121
+      position: {x: 0.1399312, y: 0.021277785, z: 0}
+      rotation: {x: 0.0029297627, y: -0.003295953, z: -0.23254897, w: 0.9725747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_159
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_150
+      position: {x: 0.20914161, y: -0.001531899, z: 0}
+      rotation: {x: 0.0032959236, y: 0.0050660004, z: -0.11874557, w: 0.99290633}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_64
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17353839, y: -0.006841421, z: 0.030067211}
+      rotation: {x: 0.10403606, y: 0.05243035, z: -0.09600979, w: 0.98853916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_65
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.18117543, y: -0.0031773448, z: 0.022656063}
+      rotation: {x: 0.0608838, y: 0.018097349, z: -0.041657325, w: 0.997111}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_66
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.18964635, y: 0.0017473897, z: 0.0104978755}
+      rotation: {x: -0.0007019046, y: -0.00018310554, z: 0.00015258796, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_67
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17868905, y: 0.11472249, z: 0.022876134}
+      rotation: {x: 0.031799793, y: 0.0022888375, z: 0.0152895395, w: 0.9993747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_68
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.016063353, y: 0.10386354, z: 0.11387416}
+      rotation: {x: -0.0021057273, y: -0.000946051, z: 0.002807636, w: 0.99999344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_122
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_68
+      position: {x: 0.103013836, y: 0.13416249, z: 0.042750444}
+      rotation: {x: -0.00064088684, y: 0.0050355294, z: -0.025208166, w: 0.9996694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_69
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.042707447, y: 0.14185016, z: -0.12499135}
+      rotation: {x: 0.00888068, y: -0.0016479668, z: 0.013305761, w: 0.9998707}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_123
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_69
+      position: {x: -0.00092826335, y: -0.12023485, z: -0.0002556642}
+      rotation: {x: -0.0006408766, y: -0.014190944, z: -0.014221461, w: 0.99979794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_151
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_123
+      position: {x: -0.0253696, y: -0.11192849, z: -0.0035103504}
+      rotation: {x: -0.020019427, y: -0.034881603, z: -0.0378112, w: 0.99847525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_160
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_151
+      position: {x: -0.027357696, y: -0.07880307, z: -0.0028243903}
+      rotation: {x: -0.023193805, y: -0.030304559, z: -0.017059647, w: 0.99912596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_167
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_160
+      position: {x: -0.039248157, y: -0.05611257, z: 0.00091873604}
+      rotation: {x: -0.024689043, y: -0.018158205, z: -0.007965178, w: 0.99949855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_170
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_167
+      position: {x: -0.049777586, y: -0.046182025, z: 0.00087800616}
+      rotation: {x: -0.022034138, y: -0.004577734, z: -0.009124939, w: 0.99970514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_70
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17341353, y: 0.027812798, z: 0.040602688}
+      rotation: {x: 0.001770029, y: -0.00027465943, z: -0.0027465967, w: 0.99999464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_71
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.13929285, y: 0.0060448446, z: 0.06556648}
+      rotation: {x: -0.00039672863, y: -0.00012207036, z: -0.0005493165, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_72
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.14416787, y: 0.044804532, z: 0.07348069}
+      rotation: {x: -0.0004882814, y: 0.000091552756, z: -0.0007934574, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_73
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.11111966, y: 0.14510909, z: 0.0000025624176}
+      rotation: {x: 0.0026855746, y: -0.010833832, z: -0.008697587, w: 0.9998999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_124
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_73
+      position: {x: 0.022201687, y: -0.13148536, z: 0.0036323864}
+      rotation: {x: -0.028778851, y: -0.045380883, z: -0.027649667, w: 0.9981723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_152
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_124
+      position: {x: 0.009948586, y: -0.15064465, z: 0.010835081}
+      rotation: {x: -0.06210427, y: -0.035187423, z: -0.042694744, w: 0.99653506}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_161
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_152
+      position: {x: 0.0041490844, y: -0.15155199, z: 0.0028714936}
+      rotation: {x: -0.01300064, y: -0.0032654258, z: -0.012207175, w: 0.99983567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_74
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.04494862, y: 0.14186372, z: 0.122748524}
+      rotation: {x: 0.016113462, y: -0.0034485164, z: -0.013336332, w: 0.9997753}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_125
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_74
+      position: {x: -0.005903601, y: -0.12017541, z: -0.0012231569}
+      rotation: {x: 0.004516721, y: -0.026733836, z: -0.0592051, w: 0.9978776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_153
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_125
+      position: {x: -0.030890739, y: -0.11003758, z: 0.0066112336}
+      rotation: {x: -0.031098153, y: -0.049744926, z: -0.07333555, w: 0.9955804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_162
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_153
+      position: {x: -0.028641263, y: -0.077595346, z: 0.0059022247}
+      rotation: {x: -0.031586565, y: -0.02804643, z: -0.016846161, w: 0.99896544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_168
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_162
+      position: {x: -0.038507745, y: -0.055800855, z: 0.0012146061}
+      rotation: {x: -0.023712277, y: -0.009735136, z: 0.014373858, w: 0.9995681}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_171
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_168
+      position: {x: -0.047491252, y: -0.047838815, z: 0.0006765128}
+      rotation: {x: -0.013367063, y: -0.0009460675, z: 0.03399751, w: 0.99933213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_75
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.016063184, y: 0.10386479, z: -0.11386732}
+      rotation: {x: -0.0018615763, y: -0.00036621164, z: 0.0009155294, w: 0.9999978}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_126
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_75
+      position: {x: 0.10301367, y: 0.13416123, z: -0.04275022}
+      rotation: {x: -0.012421022, y: -0.008423102, z: -0.032471664, w: 0.99936}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_76
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.15346001, y: 0.009621799, z: -0.0000054166667}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_77
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.038158923, y: 0.14024852, z: -0.09195146}
+      rotation: {x: 0.00073242624, y: -0.002899188, z: 0.0018921016, w: 0.99999374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_127
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_77
+      position: {x: 0.015123317, y: -0.13027394, z: -0.0075784866}
+      rotation: {x: -0.04248143, y: 0.0018921057, z: -0.039887376, w: 0.99829894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_154
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_127
+      position: {x: 0.046275325, y: -0.13856828, z: -0.013122849}
+      rotation: {x: -0.046357483, y: -0.046876304, z: -0.018494153, w: 0.99765307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_163
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_154
+      position: {x: 0.03217554, y: -0.11116052, z: -0.03156964}
+      rotation: {x: 0.001312278, y: -0.029937932, z: -0.009521548, w: 0.9995056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_78
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.1612599, y: 0.0838593, z: 0.05219205}
+      rotation: {x: 0.034515426, y: 0.01470955, z: -0.025878923, w: 0.9989608}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_79
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.16574293, y: 0.117374614, z: 0.046178877}
+      rotation: {x: -0.035245784, y: -0.12674044, z: -0.31369287, w: 0.9403677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_80
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.09528166, y: 0.16002199, z: 0.080414996}
+      rotation: {x: 0.05438357, y: -0.014770684, z: -0.166233, w: 0.9844749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_128
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_80
+      position: {x: 0.05734831, y: 0.01313746, z: 0.04668457}
+      rotation: {x: 0.12143276, y: 0.07965315, z: -0.099551044, w: 0.9843775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_155
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_128
+      position: {x: 0.08352962, y: -0.008758128, z: 0.07008964}
+      rotation: {x: 0.095978804, y: -0.009886776, z: -0.2555573, w: 0.9619672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_164
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_155
+      position: {x: 0.11058748, y: -0.015337944, z: 0.09279374}
+      rotation: {x: 0.107850894, y: 0.030671071, z: -0.13162455, w: 0.98493785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_81
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.16066575, y: 0.17233777, z: 0.042762987}
+      rotation: {x: -0.0372625, y: -0.017425798, z: -0.0067139445, w: 0.999131}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_82
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17376952, y: 0.106932215, z: 0.010569095}
+      rotation: {x: 0.23220916, y: -0.10794099, z: 0.019468743, w: 0.9664619}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_83
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.1729732, y: 0.13378112, z: 0.04268192}
+      rotation: {x: -0.009887821, y: -0.07888877, z: 0.006103612, w: 0.99681574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_84
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.14342427, y: 0.12578656, z: 0.0825324}
+      rotation: {x: -0.03781171, y: -0.06851248, z: 0.034698904, w: 0.9963294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_85
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: 0.09528146, y: 0.16002256, z: -0.08041502}
+      rotation: {x: -0.04882955, y: -0.0031129052, z: -0.1671802, w: 0.9847115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_129
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_85
+      position: {x: 0.05734849, y: 0.0131367445, z: -0.046684455}
+      rotation: {x: -0.12445056, y: -0.08017053, z: -0.10205047, w: 0.9837024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_156
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_129
+      position: {x: 0.083529435, y: -0.008757591, z: -0.07008956}
+      rotation: {x: -0.15573174, y: -0.005281221, z: -0.19693078, w: 0.9679556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_165
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_156
+      position: {x: 0.11058728, y: -0.015338123, z: -0.09279376}
+      rotation: {x: -0.1329967, y: -0.023774328, z: -0.16308741, w: 0.97731733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_86
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.19253004, y: 0.038597345, z: -0.01625}
+      rotation: {x: 0.0015563983, y: -2.7816449e-11, z: 0.00030517616, w: 0.99999875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_87
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.19253004, y: 0.038597345, z: 0.01625}
+      rotation: {x: -0.0015869162, y: 2.8292693e-11, z: 0.0003051762, w: 0.9999987}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_88
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17376953, y: 0.106932215, z: -0.010569108}
+      rotation: {x: -0.23224187, y: 0.107972555, z: 0.019469474, w: 0.9664505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_89
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.18964635, y: 0.0017473897, z: -0.0104978755}
+      rotation: {x: 0.0006713869, y: 0.00021362309, z: 0.00015258795, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_90
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17353837, y: -0.006841421, z: -0.03006719}
+      rotation: {x: -0.10406677, y: -0.052399885, z: -0.09600995, w: 0.98853755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_91
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.18117543, y: -0.0031773448, z: -0.022656063}
+      rotation: {x: -0.060914405, y: -0.018066844, z: -0.04165739, w: 0.9971097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_92
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17380626, y: 0.067780316, z: -0.024231791}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_93
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.1786881, y: 0.11472186, z: -0.022863382}
+      rotation: {x: -0.070160404, y: 0.0068666334, z: 0.03955104, w: 0.9967277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_94
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.18138307, y: 0.09884701, z: 0}
+      rotation: {x: 0, y: 0, z: 0.08673225, w: 0.9962317}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_95
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.04294907, y: 0.050730765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_130
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.13691679, y: -0.098409, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_131
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.10780177, y: -0.06939232, z: -0.0000054166667}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_132
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.14236625, y: -0.063588224, z: 0.010787601}
+      rotation: {x: -0.0017395067, y: -0.0009460478, z: -0.0013427773, w: 0.99999714}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_133
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.13578892, y: -0.06379788, z: 0.021417072}
+      rotation: {x: 0.044098552, y: 0.009369081, z: -0.03140305, w: 0.99848956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_134
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.12960927, y: -0.056824144, z: 0.031556092}
+      rotation: {x: 0.06884821, y: 0.038117032, z: -0.07504334, w: 0.9940702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_135
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.13578892, y: -0.06379788, z: -0.02141705}
+      rotation: {x: -0.044129126, y: -0.00933857, z: -0.031403083, w: 0.9984885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_136
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.12960927, y: -0.056823988, z: -0.03155608}
+      rotation: {x: -0.0688788, y: -0.038086537, z: -0.075043425, w: 0.9940692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_137
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_95
+      position: {x: -0.14236622, y: -0.06358838, z: -0.0107876435}
+      rotation: {x: 0.0017089893, y: 0.0009765654, z: -0.0013427773, w: 0.9999972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_96
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.20605877, y: 0.042450964, z: 0.00011716666}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_97
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.13516031, y: 0.10009271, z: 0.0446425}
+      rotation: {x: -0.00021363133, y: 0.0077211163, z: -0.026764503, w: 0.9996119}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_98
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.17125799, y: 0.1381794, z: -0.08527136}
+      rotation: {x: -0.070160404, y: 0.0068666334, z: 0.03955104, w: 0.9967277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_99
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.13255985, y: 0.16742794, z: -0.18332362}
+      rotation: {x: -0.070160404, y: 0.0068666334, z: 0.03955104, w: 0.9967277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_100
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.1688852, y: 0.14250751, z: 0.083142996}
+      rotation: {x: 0.031799793, y: 0.0022888375, z: 0.0152895395, w: 0.9993747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_101
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.12685116, y: 0.17727558, z: 0.1779667}
+      rotation: {x: 0.031799793, y: 0.0022888375, z: 0.0152895395, w: 0.9993747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_102
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.16784811, y: 0.09877628, z: -0.053551245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_103
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.16784811, y: 0.09877628, z: 0.053551245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_221
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.000000044703484, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_222
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.03503562, y: 0.261716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_225
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_226
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.2010827, y: -0.0061029196, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8499998, y: 0.85000026, z: 0.85}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_227
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_42
+      position: {x: -0.23077933, y: -0.0066556334, z: -0.00038654648}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_26
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: -0.095404565, y: 0.1540858, z: 0.1077725}
+      rotation: {x: 0, y: -0, z: -0.008606013, w: 0.999963}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_202
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.40215683, y: 0.6228073, z: 0.265153}
+      rotation: {x: 0.674408, y: 0.6743675, z: 0.21262245, w: -0.2125888}
+      scale: {x: 0.8700555, y: 1.1764607, z: 0.6557898}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_204
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.2754914, y: 0.21918671, z: 0}
+      rotation: {x: 0, y: -0, z: -0.042267215, w: 0.99910635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_206
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.3420119, y: 0.50624925, z: -0.24689354}
+      rotation: {x: 0.2954346, y: 0.6146337, z: 0.34237263, w: 0.64631635}
+      scale: {x: 0.87, y: 0.87, z: 0.87}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_207
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: -0.00000006146729, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_208
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.28537288, y: 0.5153489, z: 0.26702273}
+      rotation: {x: -0.28616887, y: -0.65378684, z: 0.35688218, w: 0.6027481}
+      scale: {x: 0.87, y: 0.87, z: 0.87}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_209
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: -0.037392486, y: 0.17044489, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8499998, y: 0.8499993, z: 0.85}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_210
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.29432425, y: 0.044757128, z: 0.006409766}
+      rotation: {x: 0.61867654, y: -0.3700595, z: 0.6104974, w: -0.3280066}
+      scale: {x: 0.87000024, y: 0.87000006, z: 0.86999995}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_211
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.33537164, y: 0.1668663, z: -0.0027844282}
+      rotation: {x: 0.55087787, y: -0.4680116, z: -0.48352093, w: 0.4936661}
+      scale: {x: 0.75, y: 0.75, z: 0.75}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_212
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.1462744, y: 0.21812403, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8499998, y: 0.8499993, z: 0.85}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_213
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.000000013969839, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_214
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_16
+      position: {x: 0.31844568, y: 0.04467827, z: -0.0022435202}
+      rotation: {x: 0.52992254, y: -0.18490042, z: -0.6565468, w: 0.50392485}
+      scale: {x: 0.87, y: 0.87, z: 0.87}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_191
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: -0.0000000055879354, y: -0.00000035762787, z: -0.00000007945346}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_192
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_194
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_195
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_197
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: 0.0000012712553, y: -0.00000017881393, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_198
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_190
+      parentName: character/bloodelf/female/bloodelffemale_hd_bone_0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_175
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_176
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 1.8805727, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_177
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_178
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 3.0679398, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_179
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_180
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_181
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_182
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: 0.1855879, y: 0, z: -0.052571546}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_183
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_184
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 3.082126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85, y: 0.85, z: 0.85}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_185
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_186
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_187
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_188
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/bloodelf/female/bloodelffemale_hd_bone_189
+      parentName: character/bloodelf/female/bloodelffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
