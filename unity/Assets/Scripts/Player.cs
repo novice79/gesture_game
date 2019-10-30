@@ -6,8 +6,7 @@ using System;
 public class Player : MonoBehaviour
 {
     private float speed = 5.0f;
-    private float rotSpeed = 2.0f;
-    private Vector3 _targetPos = Vector3.one;
+    private float rotSpeed = 3.0f;
     private Quaternion _targetRot;
     private Animator _animator;
     private Coroutine _runCo = null;
@@ -17,15 +16,25 @@ public class Player : MonoBehaviour
     {
         Stand = 0,
         Run,
+        // 流星打击
         DHMeteorStrike,
+        // 旋风斩/剑刃风暴
         Whirlwind,
+        // 冥想
         Meditate,
+        // 风暴打击
         Stormstrike,
+        // 猛虎掌
         PalmStrike,
+        // 旭日东升踢
         RisingSunKick,
+        // 火焰之息
         BreathOfFire,
+        // 鼓掌
         EmoteApplaud,
+        // 翔龙在天
         FlyingKick,
+        // 怒雷破
         ThousandFists
     }
     public void startStormstrike()
@@ -154,19 +163,20 @@ public class Player : MonoBehaviour
     void TurnAndRunTo(Vector3 begin, Vector3 end)
     {
         // begin/end suppose to be mouse coodinates in 2D screen
-        Ray ray = Camera.main.ScreenPointToRay(end);
-        RaycastHit mouseHit;
-        if (Physics.Raycast(ray, out mouseHit)) {
-            GameObject hitObject = mouseHit.transform.gameObject;
+        Ray ray0 = Camera.main.ScreenPointToRay(begin);
+        Ray ray1 = Camera.main.ScreenPointToRay(end);
+        RaycastHit mouseHit0, mouseHit1;
+        if (Physics.Raycast(ray0, out mouseHit0) && Physics.Raycast(ray1, out mouseHit1)) {
+            GameObject hitObject = mouseHit1.transform.gameObject;
             // if (hitObject.layer == LayerMask.NameToLayer("Ground")) {                   
                 float len = Vector3.Distance(end, begin);
                 Debug.Log($"mouse scatch len={len}");
                 len /= 100;
-                _targetPos = mouseHit.point;
-                Vector3 adjustedPos = new Vector3(_targetPos.x, transform.position.y, _targetPos.z);
-                _targetRot = Quaternion.LookRotation(adjustedPos - transform.position);
-                // transform.rotation = Quaternion.Slerp(transform.rotation, targetRot, rotSpeed * Time.deltaTime);
-                // transform.rotation = targetRot;
+                Vector3 to = mouseHit1.point;
+                Vector3 from = mouseHit0.point;
+                Vector3 adjustedTo = new Vector3(to.x, transform.position.y, to.z);
+                Vector3 adjustedFrom = new Vector3(from.x, transform.position.y, from.z);
+                _targetRot = Quaternion.LookRotation(adjustedTo - adjustedFrom);
                 if(_runCo != null)
                 {
                     StopCoroutine(_runCo);

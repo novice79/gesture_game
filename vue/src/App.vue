@@ -42,6 +42,7 @@ html, body
   color: #2c3e50;
 }
 header {
+  position: relative;
   height: 2rem;
   line-height: 2em;
   text-align: center;

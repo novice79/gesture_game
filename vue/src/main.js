@@ -20,8 +20,11 @@ const MyPlugin = {
   }
 }
 Vue.use(MyPlugin, { dev: false })
-window.vm = new Vue({
-  router,
-  store,
-  render: h => h(App)
-}).$mount('#app')
+document.addEventListener("deviceready", ()=>{
+  window.vm = new Vue({
+    router,
+    store,
+    render: h => h(App)
+  }).$mount('#app')
+}, false); 
+

@@ -1,41 +1,38 @@
 <template>
-  <gestures data-page="true">
-    <header class="header-bar">
-      <button class="btn pull-left icon icon-arrow-back" data-navigation="$previous-page"></button>
-      <div class="center">
-        <h1 class="title">手势绑定</h1>
-      </div>
-      <button v-if="$isDev" class="btn pull-right icon icon-add" data-navigation="design"></button>
-      <button v-if="$isDev" class="btn pull-right icon icon-sync with-circle" v-on:touchend="save_gestures()"></button>
-      <button class="btn pull-right" v-on:touchend="get_default_gestures()">恢复默认</button>
+  <div class="gestures">
+    <header>
+      <div class="left" @click="$router.go(-1)">&larr;</div>
+        手势绑定
+      <div class="right">
+        <div v-if="$isDev" @click.stop="$router.push({name: 'design'})">+</div>
+        <div  class="save" @click.stop="save_gestures()">&#128190;</div>
+        <div class="restore-def" @click.stop="restore_default_gestures()">&#x21bb;</div>
+      </div>      
     </header>
     
     <div class="content">
-      <ul class="list">
-        <li v-for="s in strokes">
-          <a class="padded-list" >
-            <canvas :id="s.Name" width="250" height="250"></canvas>
-            <div>
-              <h3 class="fit-parent">{{s.Name}}</h3>
-              <h4 class="comments">{{s.Comments}}</h4>
-              <button class="btn fit-parent primary" v-on:touchend="goDesign(s.Name)" >编辑</button>
-              <button v-if="$isDev" class="btn fit-parent negative" v-on:touchend="delete_stroke(s.Name)" >删除</button>
-            </div>
-          </a>
-        </li>
-      </ul>
+      <div class="list">
+        <div v-for="s in strokes" class="stroke">
+          <canvas :id="s.Name" width="250" height="250"></canvas>
+          <div class="desc">
+            <h3 >{{s.Name}}</h3>
+            <h4 class="comments">{{s.Comments}}</h4>
+            <button class="edit" v-on:touchend="goDesign(s.Name)" >编辑</button>
+            <button v-if="$isDev" class="delete" v-on:touchend="delete_stroke(s.Name)" >删除</button>
+          </div>
+        </div>
+      </div>
 
     </div>
-  </gestures>
+  </div>
 </template>
 
 <script>
-import Vue from "vue";
 import recognizer from "@/js/dollar";
-
-import ges from "@/default_gestures";
+import util from "@/js/util";
+import def_ges from "@/default_gestures";
 export default {
-  name: "GesturesPage",
+  name: "Gestures",
   created: function() {
     // `this` points to the vm instance
     this.recognizer = recognizer;
@@ -56,18 +53,50 @@ export default {
     // }
   },
   mounted() {
+    // first load
+    this.loadStrokes();
+  },
+  activated() {
+    // reenter
     this.loadStrokes();
   },
   methods: {
-    get_default_gestures() {
-      recognizer.Clear();
-      recognizer.ParseInGestures(ges);
-      localStorage.setItem('gestures', ges);
-      this.loadStrokes();
-      alert("恢复默认手持成功", "手势已重置");  
+    restore_default_gestures() {
+      const ok = confirm("确认恢复默认手势吗？");
+      if(ok) {
+        recognizer.Clear();
+        recognizer.ParseInGestures(def_ges);
+        localStorage.setItem('gestures', def_ges);
+        this.loadStrokes();
+        alert("恢复默认手持成功", "手势已重置");  
+      }
+      
     },
-    save_gestures() {
-      localStorage.setItem('gestures', this.recognizer.StringifyGestures());
+    async save_gestures() {
+      let ges = this.recognizer.StringifyGestures();
+      localStorage.setItem('gestures', ges);
+      const dirEntry = await util.create_dir_recursive('mystore');
+      const fn = 'gestures.js'; 
+      dirEntry.getFile(
+        fn,
+        { create: true, exclusive: false },
+        fileEntry => {
+            fileEntry.createWriter(fileWriter => {
+                fileWriter.onwriteend = () => {
+                    console.log(`write ${fn} file successful...`);
+                    alert(`保存手势设置成功！`)
+                };
+                fileWriter.onerror = (e) => {
+                    console.log(`write ${fn} file failed: ` + JSON.stringify(e));
+                    alert(`保存手势设置失败！`)
+                };
+                ges = `export default const ges = \`${ges}\`;`;
+                const dataObj = new Blob([ges], { type: 'text/javascript' });
+                fileWriter.write(dataObj);
+            });
+        },
+        err => { }
+      );
     },
     delete_stroke(name) {
       this.recognizer.DeleteByName(name);
@@ -80,9 +109,7 @@ export default {
       });
     },
     goDesign(name) {
-      // todo: fill query string
-      this.$router.push('design');
-      // phonon.navigator().changePage("design", name);
+      this.$router.push({ name: 'design', params: { name } });
     },
     drawStrokes() {
       this.recognizer.GetUnistrokes().forEach(s => {
@@ -110,7 +137,12 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.padded-list div {
+.stroke {
+  display: flex;
+  flex-direction: row;
+  border: 2px outset gray;
+}
+.desc{
   flex: 1;
   text-align: center;
   display: flex;
@@ -119,11 +151,32 @@ export default {
 .comments {
   flex: 1;
 }
-.list a {
-  display: flex;
-  flex-direction: row;
-}
+
 h3 {
   color: purple;
+}
+.edit, .delete{
+  width: 79%;
+  margin: 0.2em;
+  font-size: 1.2em;
+  border-radius: 0.7em;
+}
+.edit{
+  background-color: aquamarine;
+}
+.delete{
+  background-color: rgb(243, 149, 8);
+}
+.right{
+  top: 0;
+  font-size: 1.7rem; 
+  display: flex;
+  justify-content: center;
+}
+.save{
+  font-size: 1.2rem; 
+}
+.right > div{
+  margin: 0 0.2em;
 }
 </style>

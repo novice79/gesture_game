@@ -16,7 +16,8 @@ const routes = [
     component: () => import('@/views/Gestures.vue')
   },
   {
-    path: '/design',
+    path: '/design/:name',
+    props: true,
     name: 'design',
     component: () => import('@/views/Design.vue')
   },

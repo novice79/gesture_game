@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "piaoyun.novice.lab"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "piaoyun.novice.lab"
     }
   },
   "dependent_plugins": {}
