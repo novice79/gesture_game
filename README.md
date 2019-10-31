@@ -14,7 +14,7 @@
 1. 安装unity，打开unity目录下的工程编译成webgl
 2. 把编译好的webgl Build目录拖到 vue/public目录下
 3. 编译vue工程，cd vue && npm i && npm run build
-4. 编译好的3D网站会生成在cordova/www目录下
+4. 编译好的3D网站会生成在cordova/www目录下   
 如果不需要打包成app，直接把这个目录丢到某个nginx虚拟站点目录下当静态网站，用手机访问测试即可。
-5. 如果需要打包成安卓app，请参考cordova官方文档安装Android编译环境。
+5. 如果需要打包成安卓app，请参考cordova官方文档安装Android编译环境。  
 然后cd cordova && cordova build android ，即可生成apk安装包。
