@@ -59,13 +59,26 @@ public class Player : MonoBehaviour
     }
     public void startFlyingKick()
     {
-        _animator.SetInteger("anim", (int)Anim.FlyingKick);
+        StopCoroutine("FlyingKick");
+        StartCoroutine("FlyingKick");
     }
     public void startThousandFists()
     {
         _animator.SetInteger("anim", (int)Anim.ThousandFists);
     }
-    // Start is called before the first frame update
+    IEnumerator FlyingKick()
+    {
+        System.DateTime startTime = DateTime.Now;
+        _animator.SetInteger("anim", (int)Anim.FlyingKick);
+        double dur = 0f;
+        while(dur < 0.95)
+        {
+            dur = (DateTime.Now - startTime).TotalSeconds;
+            transform.Translate(0, 0, speed * Time.deltaTime);
+            yield return null;
+        }  
+        _animator.SetInteger("anim", (int)Anim.Stand);
+    }
     IEnumerator run(float len)
     {
         System.DateTime startTime = DateTime.Now;

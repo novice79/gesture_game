@@ -17,8 +17,8 @@
           <div class="desc">
             <h3 >{{s.Name}}</h3>
             <h4 class="comments">{{s.Comments}}</h4>
-            <button class="edit" v-on:touchend="goDesign(s.Name)" >编辑</button>
-            <button v-if="$isDev" class="delete" v-on:touchend="delete_stroke(s.Name)" >删除</button>
+            <button class="edit" @click.stop="goDesign(s.Name)" >编辑</button>
+            <button v-if="$isDev" class="delete" @click.stop="delete_stroke(s.Name)" >删除</button>
           </div>
         </div>
       </div>
@@ -75,6 +75,10 @@ export default {
     async save_gestures() {
       let ges = this.recognizer.StringifyGestures();
       localStorage.setItem('gestures', ges);
+      if(!window.cordova) {
+        alert(`保存手势设置成功！`)
+        return;
+      }
       const dirEntry = await util.create_dir_recursive('mystore');
       const fn = 'gestures.js'; 
       dirEntry.getFile(
@@ -90,7 +94,7 @@ export default {
                     console.log(`write ${fn} file failed: ` + JSON.stringify(e));
                     alert(`保存手势设置失败！`)
                 };
-                ges = `export default const ges = \`${ges}\`;`;
+                ges = `export default \`${ges}\`;`;
                 const dataObj = new Blob([ges], { type: 'text/javascript' });
                 fileWriter.write(dataObj);
             });
@@ -147,6 +151,8 @@ export default {
   text-align: center;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .comments {
   flex: 1;

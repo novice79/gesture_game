@@ -19,7 +19,7 @@ export default {
         gameInstance.SendMessage('Player', 'startWhirlwind');
     },
     "冥想": function (result, points) {
-        //m
+        //c
         gameInstance.SendMessage('Player', 'startMeditate');
     },
     "风暴打击": function (result, points) {

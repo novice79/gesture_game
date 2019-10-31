@@ -20,11 +20,19 @@ const MyPlugin = {
   }
 }
 Vue.use(MyPlugin, { dev: false })
-document.addEventListener("deviceready", ()=>{
+const startApp = ()=>{
   window.vm = new Vue({
     router,
     store,
     render: h => h(App)
   }).$mount('#app')
-}, false); 
+}
+if(!!window.cordova){
+  document.addEventListener("deviceready", ()=>{
+    startApp()
+  }, false); 
+} else {
+  startApp()
+}
+
 
