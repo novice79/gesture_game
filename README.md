@@ -2,11 +2,11 @@
 
 
 <div style="display:flex;flex-wrap: wrap;align-items: center;justify-content: center;">
-    <video style="margin:1.0em;" src="https://novice79.github.io/video/gg.mp4"></video>
+    <img style="margin:1.0em;" src="https://novice79.github.io/video/gg.gif"></img>
     <img style="margin:1.0em;" src="https://novice79.github.io/screenshots/gg/Screenshot_20191031-220744.jpg" />
 </div>
 
-[演示视频](https://novice79.github.io/video/gg.mp4)
+[演示视频（2.6M）](https://novice79.github.io/video/gg.mp4)
 
 **[App下载（15.8M）](https://novice79.github.io/dist/gg.apk)**
 
