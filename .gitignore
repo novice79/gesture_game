@@ -6,7 +6,7 @@ temp
 # local env files
 .env.local
 .env.*.local
-
+/res/
 # Log files
 npm-debug.log*
 yarn-debug.log*

@@ -2,13 +2,13 @@
 
 
 <div style="display:flex;flex-wrap: wrap;align-items: center;justify-content: center;">
-    <img style="margin:1.0em;" src="https://novice79.github.io/video/gg.gif"></img>
-    <img style="margin:1.0em;" src="https://novice79.github.io/screenshots/gg/Screenshot_20191031-220744.jpg" />
+    <img style="margin:1.0em;" src="https://github.com/novice79/gesture_game/releases/download/v1.0-gg/gg.gif"></img>
+    <img style="margin:1.0em;" src="https://github.com/novice79/gesture_game/releases/download/v1.0-gg/Screenshot_20191031-220744.jpg" />
 </div>
 
-[演示视频（2.6M）](https://novice79.github.io/video/gg.mp4)
+[演示视频（2.6M）](https://github.com/novice79/gesture_game/releases/download/v1.0-gg/gg.mp4)
 
-**[App下载（15.8M）](https://novice79.github.io/dist/gg.apk)**
+**[App下载（15.8M）](https://github.com/novice79/gesture_game/releases/download/v1.0-gg/gg.apk)**
 
 ### 编译步骤
 1. 安装unity，打开unity目录下的工程编译成webgl
