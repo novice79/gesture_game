@@ -1,5 +1,6 @@
 ## 演示用手势操作WOW游戏角色的demo
 
+*[缘起](memo.md)*
 
 <div style="display:flex;flex-wrap: wrap;align-items: center;justify-content: center;">
     <img style="margin:1.0em;" src="https://github.com/novice79/gesture_game/releases/download/v1.0-gg/gg.gif"></img>
@@ -7,6 +8,9 @@
 </div>
 
 [演示视频（2.6M）](https://github.com/novice79/gesture_game/releases/download/v1.0-gg/gg.mp4)
+
+因为是在安卓webview里运行，老手机不支持webgl，或支持不好的，可能运行不了。    
+我这边测试是：nexus 6p（Android6）根本打不开，华为M3青春版（Android7）运行有点卡，一加5t可以流畅运行
 
 **[App下载（15.8M）](https://github.com/novice79/gesture_game/releases/download/v1.0-gg/gg.apk)**
 
